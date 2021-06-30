@@ -1,3 +1,6 @@
-// Bhadra Demo
+// JavaScript: Arrays
 
-alert('Hellow Bhadra');
+const arr = [1, 2, 3, 4, 5];
+
+arr.pop();
+console.log(arr);
