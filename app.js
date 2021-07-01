@@ -1,5 +1,4 @@
-// decrementing numbers
-let result = 50;
-result = result - 1; // 49
-result-- // 48
-console.log(result);
+// decimal numbers multiplication
+
+let result = 2.0 * 2.5;
+console.log(result); // 5
