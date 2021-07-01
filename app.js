@@ -1,3 +1,1 @@
-// Bhadra Demo
-
-alert('Hellow Bhadra');
+// Running JavaScript
