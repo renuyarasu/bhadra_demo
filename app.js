@@ -1,3 +1,3 @@
-// multiplying numbers
-let result = 8 * 10;
+// dividing numbers
+let result = 66 / 33; // 2
 console.log(result);
