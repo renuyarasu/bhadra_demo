@@ -1,4 +1,4 @@
-// divide decimal numbers
+// remainder
 
-let result = 5.0 / 2.5;
-console.log(result); // 2
+let remainder = 11 % 3;
+console.log(remainder); // 2
