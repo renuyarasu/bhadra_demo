@@ -1,4 +1,4 @@
-// decimal numbers multiplication
+// divide decimal numbers
 
-let result = 2.0 * 2.5;
-console.log(result); // 5
+let result = 5.0 / 2.5;
+console.log(result); // 2
