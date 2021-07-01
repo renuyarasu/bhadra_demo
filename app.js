@@ -1,6 +1,5 @@
-// Running JavaScript - Arrays
+// Nested Arrays
 
-let ourArray = ['VedaGna', 5];
-let myArray = ['Renu', 35];
+let ourArray = [['VedaGna', 5], ['Renu', 35]];
 
-console.log(ourArray[0]); // VedaGna
+console.log(ourArray[0][0]); // VedaGna
