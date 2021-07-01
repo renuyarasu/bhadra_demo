@@ -1,5 +1,6 @@
-// Nested Arrays
+// Modify Array Data
 
-let ourArray = [['VedaGna', 5], ['Renu', 35]];
+let numbers = [1, 2, 3, 4, 5];
+numbers[4] = 10;
 
-console.log(ourArray[0][0]); // VedaGna
+console.log(numbers); // [1,2,3,4,10]
